@@ -57,6 +57,10 @@ on the roadmap. Not yet validated for production credit decisions.
 - [geospatial-ml-decision-support](https://github.com/nazaryansurenn-amb/geospatial-ml-decision-support)
 - [geospatial-ai-assistant-platform](https://github.com/nazaryansurenn-amb/geospatial-ai-assistant-platform)
 
+## Built with
+
+Python · FastAPI · Google Earth Engine · Sentinel-2 · ERA5-Land · React · Leaflet
+
 ## About this repository
 
 This repository contains a **product overview only**. It does not contain source
